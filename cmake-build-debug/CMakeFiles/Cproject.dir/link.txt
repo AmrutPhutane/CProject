@@ -1,0 +1,3 @@
+"U:\Program Files\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Cproject.dir/objects.a
+"U:\Program Files\CLion 2024.2.2\bin\mingw\bin\ar.exe" qc CMakeFiles\Cproject.dir/objects.a @CMakeFiles\Cproject.dir\objects1.rsp
+"U:\Program Files\CLion 2024.2.2\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\Cproject.dir/objects.a -Wl,--no-whole-archive -o Cproject.exe -Wl,--out-implib,libCproject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Cproject.dir\linkLibs.rsp
